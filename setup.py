@@ -9,7 +9,7 @@ import os
 import setuptools
 
 setuptools.setup(
-    name='string_randoms',
-    version='1.0.1',
+    name='django_string',
+    version='1.0.2',
     packages=setuptools.find_packages()
 )
